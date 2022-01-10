@@ -5,7 +5,7 @@ I'm currently looking for a summer internship in 2022. The programming languages
 Here is my [LinkedIn](https://www.linkedin.com/in/dean-yim-18853516a)
 
 
-<!--  <!-- -->
+<!--  
 **deanyim0226/deanyim0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
