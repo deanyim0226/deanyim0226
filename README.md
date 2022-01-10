@@ -2,8 +2,10 @@
 
 I'm currently looking for a summer internship in 2022. The programming languages that I have worked with are C, C++, Java, and Python. I'm currently learning machine learning, information retrieval, and principles of operating systems at school. Besides school work, I'm learning web development such as javascript and react.
 
+Here is my [LinkedIn](https://www.linkedin.com/in/dean-yim-18853516a)
 
-<!--
+
+<!--  <!-- -->
 **deanyim0226/deanyim0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
