@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Dean, a 4th year computer science student at University of California Irvine.
 
-I'm seeking a summer internship in 2022. The programming languages that I have worked with are C, C++, Java, and Python. I'm currently learning machine learning, information retrieval, and principles of operating systems at school. Besides school work, I'm learning web development such as javascript and react.
+I'm seeking a summer internship in 2022. The programming languages that I have worked with are C, C++, Java, and Python. I'm interested in web and mobile application. 
 
 Here is my [LinkedIn](https://www.linkedin.com/in/dean-yim-18853516a)
 
