@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Dean, a 4th year computer science student at University of California Irvine.
 
-I'm currently seeking a summer internship opportunity in 2022. The backend programming languages that I have used are C, C++, Java, and Python. Recently, I learned about CSS, HTML, Javascript, react, and react-native. I am fascinated by both frondend and backend programming languages, so I want to be a full stack developer if possible. My ultimate goal is to develop a web/mobile application that is something beneficial to people in the world.   
+I'm currently seeking a summer/fall internship opportunity in 2022. The backend programming languages that I have used are C, C++, Java, and Python. Recently, I learned about CSS, HTML, Javascript, react, and react-native. I am fascinated by both frondend and backend programming languages, so I want to be a full stack developer if possible. My ultimate goal is to develop a web/mobile application that is something beneficial to people in the world.   
 
 Here is my [LinkedIn](https://www.linkedin.com/in/dean-yim-18853516a)
 
