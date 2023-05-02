@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Dean, a senior student majoring in computer science at University of California Irvine.
 
-I'm currently seeking any job opportunity in 2023. I have learned about the backend programming languages C, C++, Java, and Python. Frontend programming languages that I have used are CSS, HTML, Javascript, and Typescript. I have experience with frontend frameworks Angular, Ionic, React, and React-native. I am fascinated by front-end and back-end programming languages and want to pursue my career as a full-stack developer. My ultimate goal is to develop a web/mobile application that benefits people worldwide.
+I'm currently seeking any job opportunity in 2023. I learned about the backend programming languages C, C++, Java, and Python during my school years. I have experience in developing web/mobile applications using CSS, HTML, Javascript, and Typescript with the frontend frameworks Angular, Ionic, React, and React-native. I am fascinated by front-end and back-end programming languages and want to pursue my career as a full-stack developer. My ultimate goal is to develop a web/mobile application that benefits people worldwide.
 
 Here is my [LinkedIn](https://www.linkedin.com/in/dean-yim-18853516a)
 
