@@ -1,8 +1,6 @@
-### Hi 👋 I'm Dean, a senior student majoring in computer science at University of California Irvine.
+### Hi 👋 I recently graduated from the University of California Irvine with a degree in Computer Science. I've learned about various programming languages as a uci student, and the programming languages I like the most are Python and Java. I have experience in web development, so I am pretty familiar with frontend frameworks: Angular and React, as well as HTML, CSS, JavaScipt, and TypeScript. 
 
-I'm currently seeking any job opportunity in 2023. I learned about the backend programming languages C, C++, Java, and Python during my school years and discovered my interest in web/mobile development. I have experience in developing web/mobile applications as a full stack developer using Java Spring, React, ReactNative and MySql. I want to continue my career as a full-stack developer, developing web/mobile applications that benefit people in the world. 
-
-Here is my [LinkedIn](https://www.linkedin.com/in/dean-yim-18853516a)
+You can also aadd me on LinkedIn [LinkedIn](https://www.linkedin.com/in/dean-yim-18853516a)
 
 
 <!--  
