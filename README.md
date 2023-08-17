@@ -1,4 +1,4 @@
-### Hi 👋 I recently graduated from the University of California Irvine with a degree in Computer Science. I've learned about various programming languages since UCI, and the programming languages I like the most are Python and Java. I have experience in web development using restful APIs and third-party APIs, so I am also pretty familiar with frontend frameworks: Angular and React, as well as HTML, CSS, JavaScipt, and TypeScript. 
+### Hi 👋 I recently graduated from the University of California Irvine with a degree in Computer Science. I've learned about various programming languages since UCI, and the programming languages I like the most are Python and Java. I have experience in web development using restful APIs and third-party APIs, so I am also familiar with frontend frameworks: Angular and React, as well as frontend languages: HTML, CSS, JavaScipt, and TypeScript. 
 
 You can also aadd me on LinkedIn [LinkedIn](https://www.linkedin.com/in/dean-yim-18853516a)
 
