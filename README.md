@@ -1,4 +1,4 @@
-### Hi 👋 I recently graduated from the University of California Irvine with a degree in Computer Science. I learned about fundamentals of programming languages, data strcuture and algorithm, and data management at UCI. I am passionate about web development and learning new technologies. I have experience in developing ecommerce websites using mernstack, Spring boot, and MySQL.
+### Hi 👋 I recently graduated from the University of California Irvine with a degree in Computer Science. I learned about fundamentals of programming languages, data strcuture and algorithm, web development, and data management at UCI. I am passionate about web development and learning new technologies. I have experience in developing ecommerce websites using mernstack, Spring boot, SQL, and React.js.
 
 You can also aadd me on LinkedIn [LinkedIn](https://www.linkedin.com/in/dean-yim-18853516a)
 
